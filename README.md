@@ -4,4 +4,4 @@ This is an example of Jenkinsfile webhook
 
 
 # Example
-This is an example. Update
+This is an example.
